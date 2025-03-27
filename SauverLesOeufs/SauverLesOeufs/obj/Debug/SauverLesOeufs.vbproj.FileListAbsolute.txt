@@ -1,0 +1,33 @@
+C:\Users\PC\documents\visual studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.Form1.resources
+C:\Users\PC\documents\visual studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.Resources.resources
+C:\Users\PC\documents\visual studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.vbproj.GenerateResource.Cache
+C:\Users\PC\documents\visual studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.xml
+C:\Users\PC\documents\visual studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.exe.config
+C:\Users\PC\documents\visual studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.exe
+C:\Users\PC\documents\visual studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.xml
+C:\Users\PC\documents\visual studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.vbprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.exe
+C:\Users\PC\documents\visual studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.pdb
+C:\Users\code x maker\Pictures\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.exe.config
+C:\Users\code x maker\Pictures\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.exe
+C:\Users\code x maker\Pictures\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.xml
+C:\Users\code x maker\Pictures\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.pdb
+C:\Users\code x maker\Pictures\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.exe
+C:\Users\code x maker\Pictures\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.pdb
+C:\Users\code x maker\Pictures\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.xml
+C:\Users\code x maker\Pictures\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.vbprojResolveAssemblyReference.cache
+C:\Users\code x maker\Pictures\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.Form1.resources
+C:\Users\code x maker\Pictures\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.Resources.resources
+C:\Users\code x maker\Pictures\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.vbproj.GenerateResource.Cache
+C:\Users\code x maker\Documents\Visual Studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.exe.config
+C:\Users\code x maker\Documents\Visual Studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.exe
+C:\Users\code x maker\Documents\Visual Studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.xml
+C:\Users\code x maker\Documents\Visual Studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.pdb
+C:\Users\code x maker\Documents\Visual Studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.exe
+C:\Users\code x maker\Documents\Visual Studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.pdb
+C:\Users\code x maker\Documents\Visual Studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\bin\Debug\SauverLesOeufs.xml
+C:\Users\code x maker\Documents\Visual Studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.vbprojResolveAssemblyReference.cache
+C:\Users\code x maker\Documents\Visual Studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.Form1.resources
+C:\Users\code x maker\Documents\Visual Studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.Resources.resources
+C:\Users\code x maker\Documents\Visual Studio 2015\Projects\SauverLesOeufs\SauverLesOeufs\obj\Debug\SauverLesOeufs.vbproj.GenerateResource.Cache
